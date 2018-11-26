@@ -1,6 +1,8 @@
 # toast-ynqc
     
     A react native module to show toast, it works on iOS and Android.
+    
+[![NPM](https://nodei.co/npm/toast-ynqc.png)](https://nodei.co/npm/toast-ynqc/)
 
 ## Getting started
 

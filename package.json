@@ -14,5 +14,9 @@
     "toast"
   ],
   "author": "ynqc",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ynqc/toast.git"
+  },
 }
