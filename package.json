@@ -1,6 +1,6 @@
 {
   "name": "toast-ynqc",
-  "version": "0.0.65",
+  "version": "0.0.66",
   "description": "this is toast test package",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:ynqc/toast.git"
-  },
+  }
 }
