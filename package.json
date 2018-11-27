@@ -1,7 +1,7 @@
 {
   "name": "toast-ynqc",
   "version": "0.0.66",
-  "description": "this is toast test package",
+  "description": "this is toast package, it works on iOS and Android.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
