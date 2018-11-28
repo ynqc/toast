@@ -39,7 +39,6 @@ Parameters:
 > hide()
 
 ```javascript
-static hide()
+static hide()   // global destroy method of toast
 ```
 
-global destroy method of toast
