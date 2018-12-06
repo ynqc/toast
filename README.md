@@ -29,12 +29,14 @@ static info(message, duration, closeCallback, closeOpacity)
 
 Parameters:
 
-| Name  | Type     | default | Description |
-| :---- | :------: | :------: | :--- |
-| message | `string`   | `-` | Toast content |
-| duration | `number`   | `3` | Delay time to close, which units is second |
-| closeCallback | `function`   | `-` | A callback function Triggered when the Toast is closed |
-| closeOpacity | `number`   | `0` | Opacity when the Toast is closed |
+| Name  | Type     | default  | required | Description |
+| :---- | :------: | :------: | :------: | :--- |
+| message | `string`   | `-` | true | Toast content |
+| duration | `number`   | `3` | false | Delay time to close, unit is second |
+| closeCallback | `function`   | `-` | false| A callback function triggered when the toast is closed |
+| closeOpacity | `number`   | `0` | false | Opacity when the toast is closed |
+
+>notice When duration = 0, onClose is invalid, toast does not disappear; hidden toast needs to be called Toast.hide()
 
 > hide()
 
