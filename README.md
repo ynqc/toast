@@ -36,7 +36,9 @@ Parameters:
 | closeCallback | `function`   | `-` | false| A callback function triggered when the toast is closed |
 | closeOpacity | `number`   | `0` | false | Opacity when the toast is closed |
 
->notice When duration = 0, onClose is invalid, toast does not disappear; hidden toast needs to be called Toast.hide()
+>notice
+
+When duration = 0, onClose is invalid, toast does not disappear; hidden toast needs to be called Toast.hide()
 
 > hide()
 
