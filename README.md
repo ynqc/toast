@@ -8,7 +8,7 @@
 
 `$ npm install toast-ynqc --save`
 
-##  Usage
+## Usage
 ```javascript
 import Toast from 'toast-ynqc';
 
