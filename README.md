@@ -40,6 +40,8 @@ Parameters:
 
 When duration = 0, onClose is invalid, toast does not disappear; hidden toast needs to be called Toast.hide()
 
+
+
 > hide()
 
 ```javascript
